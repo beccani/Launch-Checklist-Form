@@ -15,7 +15,7 @@ window.addEventListener("load", function() {
                   <li>Number of Moons: ${json[0].moons}</li>
                </ol>
                <img src="${json[0].image}">
-         `
+               `
       });
    });
 
